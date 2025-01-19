@@ -2,7 +2,12 @@
 
 A basic chess game implemented in Python using the Pygame library. It features a graphical user interface (GUI), allowing a human player to play against a simple computer AI.
 
-## Features
+![Python Versions](https://img.shields.io/badge/python-3.8+-blue.svg)
+![Pygame](https://img.shields.io/badge/pygame-2.4.0-green.svg)
+![License](https://img.shields.io/badge/license-MIT-yellow.svg)
+![Game Version](https://img.shields.io/badge/version-1.0.0-orange.svg)
+
+## 🎮 Game Features
 
 *   **Graphical User Interface:** A visual chess board with piece images.
 *   **Basic Game Logic:** Implements the fundamental rules of chess, including move validation, check/checkmate detection.
@@ -10,7 +15,7 @@ A basic chess game implemented in Python using the Pygame library. It features a
 *   **Piece Movement:** Implements specific valid moves for pawns, rooks, knights, bishops, queens, and kings.
 *   **Check and Checkmate Detection:** Detects if the king is in check and if the game ends in checkmate.
 
-## How to Run
+## 🚀 How to Run
 
 1. **Installing with Conda**
     ```bash
@@ -27,7 +32,7 @@ A basic chess game implemented in Python using the Pygame library. It features a
     python main.py
     ```
 
-## File Structure
+## 📦 Project Structure
 
 The project is organized as follows:
 
@@ -49,7 +54,7 @@ chess-game/
 └── README.md           # This file
 ```
 
-## Controls
+## 🎮 Controls
 
 *   **Mouse Click:**
     *   Click on a chess piece to select it.
@@ -81,6 +86,6 @@ Feel free to contribute to this project by:
 *   Suggesting enhancements and new features.
 *   Submitting pull requests with bug fixes or new functionalities.
 
-## License
+## 📝 License
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
