@@ -7,7 +7,7 @@ A basic chess game implemented in Python using the Pygame library. It features a
 ![License](https://img.shields.io/badge/license-MIT-yellow.svg)
 ![Game Version](https://img.shields.io/badge/version-1.0.0-orange.svg)
 
-<p style="text-align: center"><img src="./screenshot.png"></p>
+<div style="text-align: center;"><img src="./screenshot.png" /></div>
 
 ## 🎮 Game Features
 
